@@ -2,13 +2,12 @@
 
 
 
-
-#hey there 👋
-
-
-
-###👩‍💻  About Me
-
+#
+hey there 👋
+#
+###
+👩‍💻  About Me
+###
 
 
 <p align="left">I'm W41K3R from Warsaw<br>
