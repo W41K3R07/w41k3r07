@@ -3,10 +3,10 @@
 
 
 ###
-#hey there 👋
+hey there 👋
 ###
 ###
-###👩‍💻  About Me
+👩‍💻  About Me
 ###
 
 
